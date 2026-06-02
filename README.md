@@ -46,7 +46,6 @@ Kullanıcıların paylaştığı anıları görüntüler.
 ### 🚀 Zaman Makinesi
 Seçilen yıla ait kısa nostaljik bilgiler gösterir.
 
----
 
 ## ⚙️ PHP Özellikleri
 
@@ -62,15 +61,9 @@ PHP ile:
 
 işlemleri gerçekleştirilmiştir.
 
----
-
 ## 👩‍💻 Geliştirici
 
 **Sena Tatar**
 
-İnönü Üniversitesi  
-Yönetim Bilişim Sistemleri
-
----
 
 © 2026 Zaman Yolculuğu Web Sitesi
