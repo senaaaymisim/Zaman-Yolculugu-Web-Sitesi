@@ -18,7 +18,6 @@ Sitede:
 - PHP kullanılarak dinamik içerikler oluşturulmuştur.
 
 ---
-
 ## 🛠️ Kullanılan Teknolojiler
 
 - HTML5
